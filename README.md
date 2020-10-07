@@ -55,10 +55,10 @@ Student at 1337 School focused on Software engineering, Game Dev and Data Scienc
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <a href="https://github.com/hamza-ezzahiry">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-ezzahiry&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-ezzahiry&layout=compact&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/hamza-ezzahiry">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-ezzahiry&show_icons=true&theme=light&line_height=27" alt="SpiderX's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-ezzahiry&show_icons=true&theme=light&line_height=40" alt="SpiderX's github stats"/>
 </a>
 
 <a href="https://github.com/hamza-ezzahiry/Flutter_projects">
