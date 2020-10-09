@@ -1,5 +1,5 @@
 
-## Hola, I'm [Hamza Ezzahiry](https://hamza-ezzahiry.github.io/First_portfolio/index.html) 👋
+## Hola, I'm [Hamza Ezzahiry](https://spiderx.vercel.app) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-ezzahiry&color=blue&style=flat-square" alt="SpiderX" /> </p>
 
@@ -36,7 +36,7 @@ Student at 1337 School focused on Software engineering, Game Dev and Data Scienc
 - 🌱 I’m currently learning Dart and Unity3D; 
 - 💬 Ask me about anything, I would be happy to help;
 - 📫 How to reach me: [@SpiderX](https://twitter.com/HamzaEzzahiry);
-- 📝[Resume](soon)
+- 📝[Resume](https://spiderx.vercel.app/cv.html)
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/hamzaEzzahiry?style=social)](https://twitter.com/HamzaEzzahiry)
 [![Linkedin: imthepk](https://img.shields.io/badge/-hezzahir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hezzahir/)](https://www.linkedin.com/in/hezzahir/)
