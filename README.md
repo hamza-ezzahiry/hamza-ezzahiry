@@ -32,7 +32,7 @@ Student at 1337 School focused on Software engineering, Game Dev and Data Scienc
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma) next month I will be in internship in UM6P Benguerir;
+- 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma) next month (Nov) I will be in internship in UM6P Benguerir;
 - 🌱 I’m currently learning Dart and Unity3D; 
 - 💬 Ask me about anything, I would be happy to help;
 - 📫 How to reach me: [@SpiderX](https://twitter.com/HamzaEzzahiry);
