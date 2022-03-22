@@ -1,5 +1,5 @@
 
-## Hola, I'm [Hamza Ezzahiry](https://spiderx.vercel.app) 👋
+## Hola, I'm [Hamza Ezzahiry](https://spiderx.vercel.app) aka SpiderX 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-ezzahiry&color=blue&style=flat-square" alt="SpiderX" /> </p>
 
