@@ -32,8 +32,8 @@ Student at 1337 School focused on Software engineering, Core Networking and comp
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m [1337 School](https://1337.ma) student and now I am in in internship [@Huawei](https://www.huawei.com);
-- 🌱 I’m currently learning in my internship Core Networking, Wireless and 5G; 
+- 👨🏽‍💻 I’m Software Engineer and now I working at [@TangerMED](https://www.tangermed.ma);
+- 🌱 I’m currently working on Mobile dev filed and practicing in my free time the backend using JAVA Spring Boot  
 - 💬 Ask me about anything, I would be happy to help;
 - 📫 How to reach me: [@SpiderX](https://twitter.com/HamzaEzzahiry);
 - 📝[Resume]() <Under modification>
