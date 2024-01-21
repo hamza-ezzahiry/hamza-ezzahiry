@@ -35,7 +35,6 @@ Software Engineer focused on building innovative solutions in the field of softw
 
 - 👨🏽‍💻 I’m Software Engineer and now I working at [@TangerMED](https://www.tangermed.ma);
 - 🌱 I'm currently immersed in the Mobile Development domain and honing my backend skills using JAVA Spring Boot in my free time. 
-- 💬 Ask me about anything, I would be happy to help;
 - 📫 How to reach me: [@SpiderX](https://twitter.com/HamzaEzzahiry);
 - 📝[Resume]() <Under modification>
 
